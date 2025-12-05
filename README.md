@@ -1,7 +1,7 @@
 ﻿## This is a project for my SPL project of Term 2 Level 1.
 
 ### Instructions to set up SDL library:
-You need to download the SDL library to run this project. goto this link to download the library: https://github.com/libsdl-org/SDL/releases
+You need to download the SDL library to run this project. goto this link to download the library: [button][https://github.com/libsdl-org/SDL/releases]
 After downloading the library, extract the contents and set up the include and lib paths in your IDE or compiler settings.
 ### To compile the code, use the following command:
 
