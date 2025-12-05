@@ -7,14 +7,13 @@ After downloading the library, extract the contents and set up the include and l
 ### To compile the code, use the following command:
 
 ```
-bashgcc iv.c -o iv.exe -I "C:\SDL\x86_64-w64-mingw32\include" -L "C:\SDL\x86_64-w64-mingw32\lib" -lSDL3
+gcc iv.c -o iv.exe -I "C:\SDL\x86_64-w64-mingw32\include" -L "C:\SDL\x86_64-w64-mingw32\lib" -lSDL3
 ```
 
 ### To run the code, use the following command:
 
 ```
-bashiv.exe
-
+iv.exe
 ```
 
 first make sure you copy and paste the SDL3.dll file from the SDL bin folder to the same directory where your iv.exe file is located.
